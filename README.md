@@ -4,6 +4,9 @@ A new Flutter project.
 
 ![screenshot hello world](images/01.png)
 
+# Menjalankan aplikasi hello_world pada perangkat fisik
+![fisik](images/fisik.gif)
+
 # Praktikum 4: Menerapkan Widget Dasar
 
 #### Langkah 1: Text Widget
